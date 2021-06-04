@@ -1,6 +1,31 @@
- pkg install python2 git
-$ pkg install python2 git
+$ pkg update
+
+$ pkg upgrade
+
+$ pkg install python
+
+$ pkg install python2
+
 $ pip2 install requests
-$ git clone https://github.com/Dru-Crack22/simbfb23
-$ cd simbfb23
-$ python2 run.py
+
+$ pip2 install mechanize
+
+$ pip2 install lolcat
+
+$ pip2 install bs4
+
+$ pkg install git
+
+$ git clone https://https://github.com/Boy-Tolkit/flash
+
+$ cd flash
+
+$ ls
+
+$ python2 crack.c
+
+
+
+
+
+ 
