@@ -1,9 +1,9 @@
-<h1 align="center">
+ <h1 align="center">
   FMBF
 </h1>
 </div>
 <p align="center">
-  Recode by <a hrefhttps://www.facebook.com/ARIS.MUNANDAR30a>
+  Recode by <a href="https://www.facebook.com/Nikyi.py">Nikyi.py_</a>
 </p>
 <p align="center">
  
@@ -13,16 +13,17 @@
 
 
 
-####  install perintah 
+#### Install script  of cyel Termux
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install python2
 $ pkg install git
 $ git clone https://github.com/Dru-Crack22/DRU-MBF23052001
 ```
-#### Crack run
+#### Run script
 ```bash
 $ cd DRU-MBF23052001
+$ pip2 install requests
 $ python2 run.py
 ```
 #### MY SOCIAL MEDIA
@@ -31,4 +32,5 @@ $ python2 run.py
 #### Notice 
 ```bash 
 -Cek Hasil Crack Dalam 7 Hari
--hay niki gant
+-Usahakan Gunakan Data Saat Crack
+- 
